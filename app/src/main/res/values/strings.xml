@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BirKitAPP</string>
+
+    <!-- Login Page -->
+    <string name="login_page_text">Bir KitAPP\' e Hoş Geldin</string>
+    <string name="login_page_subtext">Kitaplarını takip etmek ister misin?</string>
+    <string name="login_page_register"><u> Bir KitAPP hesabı oluştur </u></string>
+    <string name="login_page_email">Email</string>
+    <string name="login_page_password">Şifre</string>
+    <string name="login_page_button">Giriş Yap</string>
+
+    <!-- Register Page -->
+    <string name="register_page_login"><u> Bir KitAPP giriş yap </u></string>
+    <string name="register_page_name">Kullanıcı Adı</string>
+    <string name="register_page_email">Email</string>
+    <string name="register_page_password">Şifre</string>
+    <string name="register_page_button">Kayıt Oluştur</string>
+</resources>
