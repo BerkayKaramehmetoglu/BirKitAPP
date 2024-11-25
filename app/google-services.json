@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744962835198",
+    "project_id": "birkitapp-a660f",
+    "storage_bucket": "birkitapp-a660f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744962835198:android:8c935e2f6773fccebd9baf",
+        "android_client_info": {
+          "package_name": "com.example.birkitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2c9y_7JnfQL_pGsmS7dykNEE8259Ho2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -15,4 +15,32 @@
     <string name="register_page_email">Email</string>
     <string name="register_page_password">Şifre</string>
     <string name="register_page_button">Kayıt Oluştur</string>
+
+    <!-- Menu -->
+    <string name="menu_insert_book">Kitap Ekle</string>
+    <string name="menu_sign_out">Çıkış Yap</string>
+    <string name="menu_people">Diğer Okurlar</string>
+
+    <!-- Home Fragment -->
+    <string name="home_fragment_toolbar">BIR KITAPP</string>
+
+    <!-- Book Fragment -->
+    <string name="book_page_text">Bir KitAPP Kitaplığına Kitap Ekle</string>
+    <string name="book_page_book_name">Kitap Adı</string>
+    <string name="book_page_book_page_count">Kitap Sayfa Sayısı</string>
+    <string name="book_page_button">Kitaplığıma Ekle</string>
+    <string name="book_page_add_book_text">Kitabın Resmini Ekle</string>
+
+    <!-- Book Card -->
+    <string name="book_card_progress_status">İlerleme Durumu</string>
+    <string name="book_card_book_name">Kitap Adı</string>
+
+    <!-- Book Card -->
+    <string name="edit_book_read_count">Okunan Sayfa Sayısı</string>
+
+    <!-- Other Book -->
+    <string name="other_book_name">Kitap Adı</string>
+    <string name="other_user_email">Email</string>
+
+    <string name="other_fragment_toolbar">BIR KITAPP SOSYAL</string>
 </resources>
