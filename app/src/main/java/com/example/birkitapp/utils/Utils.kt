@@ -62,6 +62,4 @@ object Utils {
     fun toastMessage(context: Context, message: String?) {
         Toast.makeText(context, message, Toast.LENGTH_SHORT).show()
     }
-
-    // !!!! ve birden fazla kitaptan birini sildiğimizde uı güncellenmiyor
 }
